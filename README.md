@@ -2,9 +2,9 @@
 
 The assignments were given as a part of Task 6 in the IIT Certified Programming Professional &amp; Master Data Science Program. The Repo contains two ipython Notebooks
 
-1] Assignment 5: 
+## 1] Assignment 5: 
 
-Ground Cricket Chirps
+### Ground Cricket Chirps
 
    In _The Song of Insects_ (1948) by George W. Pierce, Pierce mechanically measured the frequency (the number of wing vibrations per second) of chirps (or pulses of sound) made by a striped ground cricket, at various ground temperatures.  Since crickets are ectotherms (cold-blooded), the rate of their physiological processes and their overall metabolism are influenced by temperature.  Consequently, there is reason to believe that temperature would have a profound effect on aspects of their behavior, such as chirp frequency.
 
@@ -19,9 +19,9 @@ Tasks
     4. Extrapolate data:  If the ground temperature reached 95, then at what approximate rate would you expect the crickets to be chirping?
     5. Interpolate data:  With a listening device, you discovered that on a particular morning the crickets were chirping at a rate of 18 chirps per second.  What was the approximate ground temperature that morning? 
 
-2] Assignment 6: 
+## 2] Assignment 6: 
 
-Brain vs. Body Weight
+### Brain vs. Body Weight
 
    In the file `brain_body.txt`, the average brain and body weight for a number of mammal species are recorded. Load this data into a Pandas data frame.
 
@@ -33,10 +33,10 @@ Tasks
     equation is a good fit for this data. (0.8 and greater is considered a strong correlation.)
 
 
-3] Assignment 7: 
+## 3] Assignment 7: 
 
 
-Salary Discrimination
+### Salary Discrimination
 
 The file `salary.txt` contains data for 52 tenure-track professors at a small Midwestern college. This data was used in legal proceedings in the 1980s about discrimination against women in salary.
 
@@ -56,9 +56,9 @@ Tasks
       3. Report whether sex is a factor in salary.
 
 
-4] Assignment 8: 
+## 4] Assignment 8: 
 
-How Much is Your Car Worth?
+### How Much is Your Car Worth?
 
 Data about the retail price of 2005 General Motors cars can be found in `car_data.csv`.
 
